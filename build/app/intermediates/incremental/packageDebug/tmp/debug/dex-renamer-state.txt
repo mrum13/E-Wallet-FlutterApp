@@ -1,0 +1,4 @@
+#Wed Aug 04 16:27:27 WITA 2021
+base.0=/home/r/FlutterProjects/ewallet_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

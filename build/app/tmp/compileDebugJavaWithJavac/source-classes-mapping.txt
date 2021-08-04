@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/ewallet_flutter/MainActivity.java
+ com.example.ewallet_flutter.MainActivity
+com/example/ewallet_flutter/BuildConfig.java
+ com.example.ewallet_flutter.BuildConfig
